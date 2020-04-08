@@ -1,2 +1,2 @@
-# Arquivos Jupyter lab com Python para iniciantes.
+# Exercicios em Python.
 Arquivos jupyter lab para estudos em python 
